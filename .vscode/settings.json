@@ -1,0 +1,3 @@
+{
+    "mypy.configFile": "dashboard-back/setup.cfg"
+}

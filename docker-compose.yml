@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  
+  dashboard-web:
+    build: './dashboard-web'
+    ports:
+      - "8081:8081"
+
+  dashboard-back:
+    build: './dashboard-back'
+    ports:
+      - "8080:8080"

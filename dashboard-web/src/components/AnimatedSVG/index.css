@@ -1,0 +1,59 @@
+#logo path:nth-child(1) {
+    stroke-dasharray: 739.597;
+    stroke-dashoffset: 739.597;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(2) {
+    stroke-dasharray: 609.098;
+    stroke-dashoffset: 609.098;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(3) {
+    stroke-dasharray: 549.139;
+    stroke-dashoffset: 549.139;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(4) {
+    stroke-dasharray: 624.374;
+    stroke-dashoffset: 624.374;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(5) {
+    stroke-dasharray: 658.58;
+    stroke-dashoffset: 658.58;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(6) {
+    stroke-dasharray: 527.474;
+    stroke-dashoffset: 527.474;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(7) {
+    stroke-dasharray: 609.1;
+    stroke-dashoffset: 609.1;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(8) {
+    stroke-dasharray: 340.593;
+    stroke-dashoffset: 340.593;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+#logo path:nth-child(9) {
+    stroke-dasharray: 658.618;
+    stroke-dashoffset: 658.618;
+    animation: line-anim 4s ease alternate infinite;
+}
+
+@keyframes line-anim {
+    to {
+        stroke-dashoffset: 1;
+    }
+}
