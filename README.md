@@ -1,7 +1,7 @@
 # Dashboard
 Epitech AppDev project
 
-to start the project, do:
+To start the project, do:
 ```sh
 ./run.sh
 ```
